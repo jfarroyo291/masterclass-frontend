@@ -37,7 +37,7 @@ function App() {
       <div className="buttons">
         <SearchForm getUser={controller}/>
       </div>
-      <div class="clearfix"></div>
+      <div className="clearfix"></div>
       <div className="row">
         <List list={personL}/>
       </div>
